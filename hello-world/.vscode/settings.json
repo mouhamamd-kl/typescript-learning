@@ -1,0 +1,27 @@
+{
+    "better-comments.tags": [
+        {
+           "tag": "!",
+           "color": "#FF2D00",
+           "strikethrough": false,
+           "underline": false,
+           "backgroundColor": "transparent",
+           "bold": false,
+           "italic": false
+        },
+        {
+           "tag": "?",
+           "color": "#3498DB",
+           "strikethrough": false,
+           "underline": false,
+           "backgroundColor": "transparent",
+           "bold": false,
+           "italic": false
+        }
+        // Add more custom tags as needed
+    ],
+    "better-comments.highlightPlainText": true,
+    "better-comments.multilineComments": true,
+    "cmake.configureOnOpen": false
+
+}
