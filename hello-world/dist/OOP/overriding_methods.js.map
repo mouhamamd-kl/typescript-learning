@@ -1,0 +1,1 @@
+{"version":3,"file":"overriding_methods.js","sourceRoot":"","sources":["../../src/OOP/overriding_methods.ts"],"names":[],"mappings":";;;AAAA,+CAAuC;AAEvC,MAAa,OAAQ,SAAQ,oBAAM;IAC/B,IAAoB,WAAW;QAC3B,OAAO,YAAY,GAAG,KAAK,CAAC,WAAW,CAAC;IAC5C,CAAC;CACJ;AAJD,0BAIC;AACD,IAAI,OAAO,GAAG,IAAI,OAAO,CAAC,WAAW,EAAE,IAAI,CAAC,CAAC;AAC7C,OAAO,CAAC,GAAG,CAAC,OAAO,CAAC,WAAW,CAAC,CAAC"}
