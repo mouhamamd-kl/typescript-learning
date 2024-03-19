@@ -1,0 +1,1 @@
+import myStorage, {Formats} from "./storage";

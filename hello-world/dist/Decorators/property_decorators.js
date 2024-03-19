@@ -12,7 +12,7 @@ function minLength(length) {
             get() { return value; },
             set(newValue) {
                 if (newValue.length < length) {
-                    throw new Error(`${propertyName} length must be at leat ${length}`);
+                    throw new Error(`${propertyName} length must be at least ${length}`);
                 }
                 value = newValue;
             }
